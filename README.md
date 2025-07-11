@@ -1,2 +1,6 @@
 # RealTimeFileContentDisplay
 实时显示文件内容
+平时查看看windows日志不方便
+没有类似Linus上边的tail -f
+所以写了一个Python脚本,选择文件之后
+能够实时展示文件内容
